@@ -31,7 +31,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+
 ![OUTPUT](<ex 2a.png>)
 
 
